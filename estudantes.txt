@@ -1,0 +1,8 @@
+211-Bacar-11.0-11.0-11.0-admitido
+233-Sansao-14.0-16.0-15.0-dispensado
+111-Nurdine-11.0-9.0-10.0-admitido
+333-Helton-5.0-10.0-7.5-excluido
+123-Claudia-12.0-2.0-7.0-excluido
+321-Salvador-15.0-15.0-15.0-dispensado
+543-Durao-10.0-10.0-10.0-admitido
+345-Gerson-16.0-11.0-13.5-dispensado
